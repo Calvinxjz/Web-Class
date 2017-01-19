@@ -1,0 +1,21 @@
+div.bigYellow{background-color: yellow;
+width: 600px;
+height: 250px;}
+
+div.pink{background-color:#ff008d;
+margin: 50px;
+width: 100px;
+height: 100px;
+float: left;}
+
+div.blue{background-color:#7b99fa;
+margin: 50px;
+width: 100px;
+height: 100px;
+float: left;}
+
+div.green{background-color:#74d600;
+margin: 50px;
+width: 100px;
+height: 100px;
+float: left;}

@@ -1,0 +1,23 @@
+div.bigPurple {
+	background-color: purple;
+	width: 500px;
+	height: 250px;
+}
+
+div.green {
+	background-color:#00ff04;
+	margin: 50px;
+	width: 100px;
+	height: 100px;
+	float: left;
+
+}
+
+div.grey{
+	background-color:#252825;
+	color: #ffffff;
+	margin: 20px;
+	width: 100px;
+	height: 100px;
+	float: left;
+}
